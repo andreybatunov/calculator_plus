@@ -1,1 +1,1 @@
-# calculator_plus
+Calculator+\калькулятор\prog\dist\Калькулятор+
